@@ -1,3 +1,4 @@
+#!/usr/bin/python
 """ --------------------------------------------------------------
 Sample Python Code for the Wind Driven Optimization.
 Optimization of the Sphere Function in the range of [-5, 5].
