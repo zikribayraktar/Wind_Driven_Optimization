@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+#!/usr/bin/python
+>>>>>>> 0f665f3043a5977fe590399257b1cd7dee4d4eba
 """ --------------------------------------------------------------
 Sample Python Code for the Wind Driven Optimization.
 Optimization of the Sphere Function in the range of [-5, 5].
@@ -138,4 +142,8 @@ plt.xlabel(('Iteration'))
 plt.yscale('log', nonposy='clip')
 plt.show()
     
+<<<<<<< HEAD
 #----------------------------------------------------------
+=======
+#----------------------------------------------------------
+>>>>>>> 0f665f3043a5977fe590399257b1cd7dee4d4eba

@@ -1,15 +1,3 @@
-<<<<<<< HEAD
+## This repo is for the Wind Driven Optimization algorithm, the Adaptive Wind Driven Optimization and Multiobjective Adaptive Wind Driven Optimization algorithms.
 
-## README for theWDO repo
-
-### theWDO repo is for the Wind Driven Optimization algorithm.
-
-### For more details, please visit the www.theWDO.com
-
-
-=======
-theWDO
-======
-
-Repository for the WDO algorithm code files
->>>>>>> f65a5e0f86f0361abb09ef57ad00cd3676701f90
+##### For more details, please visit the main website:  http://www.theWDO.com
